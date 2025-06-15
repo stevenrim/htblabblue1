@@ -11,7 +11,6 @@ A user reported suspicious files on their workstation, prompting the SOC team to
 | **Timeline Explorer** | Visualizing timeline activity from parsed artifacts |
 | **Event Viewer** | Reviewing Security and PowerShell logs |
 | **PowerShell Operational Logs** | Investigating ScriptBlock activity (Event ID 4104) |
-| **Splunk (Simulated)** | Demonstrating SIEM detection with SPL queries |
 
 ## 🔍 Method (Investigation Steps)
 
